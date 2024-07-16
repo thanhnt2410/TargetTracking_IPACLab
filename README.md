@@ -15,5 +15,6 @@ The data returned from the Server displayed on the screen is the location of peo
 
   Link youtube demo: https://youtu.be/UA2SsdpW9Xs?si=mJk__f9eAycKoT8m
 
-  ![Màn hình](![image](https://github.com/user-attachments/assets/a560c806-052f-4ef4-8ad6-9d7d8768b565)
-)
+
+  ![LCD](https://github.com/user-attachments/assets/8157ddf3-649c-460a-afeb-1a26d19b6f25)
+
