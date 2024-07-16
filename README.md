@@ -17,4 +17,12 @@ The data returned from the Server displayed on the screen is the location of peo
 
 
   ![LCD](https://github.com/user-attachments/assets/8157ddf3-649c-460a-afeb-1a26d19b6f25)
+  Hardware: 
+![image](https://github.com/user-attachments/assets/06030b6f-6320-46bc-8173-ff43eb04fa69)
+  Lăng phun/device
+    ![image](https://github.com/user-attachments/assets/1ae2a172-16ab-47de-a071-7aef733e6af7)
+  Mạch: ![image](https://github.com/user-attachments/assets/c20b6c7c-5cd6-4a63-a376-b40c0659a513)
+  ![image](https://github.com/user-attachments/assets/5963cb66-4495-4397-a9e9-033cf7d469a4)
+![image](https://github.com/user-attachments/assets/b917a41d-45e1-40f8-a117-ce0be9ae2141)
+![image](https://github.com/user-attachments/assets/186edc9a-589f-4fc0-9460-3a37ae02482f)
 
