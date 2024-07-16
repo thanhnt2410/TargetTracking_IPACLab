@@ -4,7 +4,9 @@ Thư mục ESP07: Nạp code kết nối wifi và scan tín hiệu RSSI gửi l�
 Thư mục esp32: Code chính cho việc thu dữ liệu từ ESP07 và các giá trị BNO055, biến trở và đẩy lên MQTT server.
 Lưu ý: Sử dụng MUX 74HC153 để quét 4 kênh UART của ESP07 để nhận dữ liệu. 
 DỮ liệu trả về từ Server hiển thị lên màn hình là vị trí của người và vị trí của các ngọn lửa. 
+  
 //-----------------English--------------------------------------
+  
 Project for locating people in closed spaces and simulating firefighting training. Using wifi positioning and IMU sensor to read coordinate values. Data is sent to the management server
 ESP07 folder: Load the wifi connection code and scan the RSSI signal and send it to Serial according to the value abs(RSSI)
 Folder esp32: Main code for collecting data from ESP07 and BNO055 values, potentiometer and pushing to MQTT server.
