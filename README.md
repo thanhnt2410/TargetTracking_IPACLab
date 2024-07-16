@@ -12,3 +12,8 @@ ESP07 folder: Load the wifi connection code and scan the RSSI signal and send it
 Folder esp32: Main code for collecting data from ESP07 and BNO055 values, potentiometer and pushing to MQTT server.
 Note: Use MUX 74HC153 to scan 4 UART channels of ESP07 to receive data. 
 The data returned from the Server displayed on the screen is the location of people and the location of fires.
+
+  Link youtube demo: https://youtu.be/UA2SsdpW9Xs?si=mJk__f9eAycKoT8m
+
+  ![Màn hình](![image](https://github.com/user-attachments/assets/a560c806-052f-4ef4-8ad6-9d7d8768b565)
+)
